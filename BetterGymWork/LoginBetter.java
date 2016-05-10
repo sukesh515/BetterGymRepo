@@ -10,7 +10,7 @@ public class LoginBetter {
 
 		
 		WebDriver driver = new FirefoxDriver();
-		driver.get("http");
+		driver.get("https");
 		
 		
 	}
